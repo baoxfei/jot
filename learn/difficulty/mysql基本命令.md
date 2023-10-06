@@ -26,6 +26,10 @@ notebook: mysql
     1. [链接1](https://blog.csdn.net/weixin_43232423/article/details/127926977)
     2. [链接2](https://www.jianshu.com/p/c1005edb82cf)
 
+## 基本命令
 
-
-  
+- 连接数据库 mysql -u root -p
+- 查看所有数据库 show databases;
+- 查看某个数据库 use database_name
+- show tables; 查看所有表
+- describe table_name
