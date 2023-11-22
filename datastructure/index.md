@@ -102,6 +102,8 @@ const coinChange = function(coins, amount) {
 
 ### 字典
 
+### 哈希表
+
 ## 技巧
 
 ### 双指针
